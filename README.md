@@ -2,7 +2,7 @@
 
 **Trabajo Final – Internet de las Cosas (IoT)**
 
-**Alumna:** Luciana Belén Garay
+**Alumna:** Luciana Belén Garay- Fernandez Roman- Benegas matias
 **Institución:** INCADE – Instituto de Capacitación Empresarial
 
 > 📌 **Estado:** avance del proyecto (adelanto para revisión del profesor)
